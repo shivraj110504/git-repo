@@ -1,3 +1,3 @@
-this is first file
-add another file or folder to commit it
-add another file
+I have started to learn git.
+i am creating mg first repo
+this is my first repo
